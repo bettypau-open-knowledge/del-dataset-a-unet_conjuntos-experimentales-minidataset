@@ -1,0 +1,11 @@
+{
+	"dataset": {
+		"name": "oxford-iiit-pet-mini",
+		"root": "data/raw",
+		"images": "images",
+		"labels": "list.txt"
+	},
+	"manifest": {
+		"path": "data/manifests/manifest.csv"
+	}
+}

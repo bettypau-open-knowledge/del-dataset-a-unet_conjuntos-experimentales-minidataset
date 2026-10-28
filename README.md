@@ -141,7 +141,7 @@ El conjunto de imágenes utilizado en esta práctica es una selección reducida 
 
 ## 🔗 Taller
 
-Esta práctica forma parte del **Módulo 2 · Ingeniería del dataset** del taller:
+Esta práctica forma parte del **Módulo 4 · Diseño experimental y pipeline de datos** del taller:
 
 [**Del dataset a U-Net: segmentación de imágenes con Deep Learning →**](https://github.com/bettypau-open-knowledge/del-dataset-a-unet)
 
